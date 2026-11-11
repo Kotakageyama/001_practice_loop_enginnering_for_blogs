@@ -1,0 +1,6 @@
+/pentest
+/coverage.out
+.env
+.env.*
+!.env.example
+/.aws/
